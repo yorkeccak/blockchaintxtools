@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+# Virtual environment
+venv/
+env/
+# Build and distribution
+build/
+dist/
+*.egg-info/
+# Environment variables
+.env
+# Logs
+*.log
+# OS generated files
+.DS_Store
