@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="blockchaintxtools",
-    version="0.1.0",
+    version="0.1.1",
     author="Harvey Yorke",
     author_email="harvey@valyu.network",
     description="A comprehensive toolkit for collecting, analyzing, filtering, and exporting blockchain transactions using Blockchair's database dumps.",
