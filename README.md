@@ -1,6 +1,6 @@
 # Blockchain Transaction Collector
 
-A comprehensive library for collecting and analyzing blockchain transactions.
+A comprehensive library for collecting and analyzing blockchain transactions using Blockchair's database dumps.
 
 ## Features
 
