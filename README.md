@@ -52,7 +52,7 @@ collector.export_transactions_to_json(transactions, "large_transactions.json")
 
 ## Documentation
 
-For full documentation, please refer to the [docs](https://github.com/yamamuchiiii/blockchaintxtools/docs) directory.
+For full documentation, please refer to the [docs](https://github.com/yorkeccak/blockchaintxtools/docs) directory.
 
 ## Contributing
 
